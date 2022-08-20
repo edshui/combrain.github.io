@@ -781,6 +781,10 @@
 				#work .row.images.inactive .image.from-left {
 					left: -14em;
 				}
+
+				#work .row.images.inactive .image.from-center {
+					left: 0em;
+				}
 			
 				#work .row.images.inactive .image.from-right {
 					left: 14em;
